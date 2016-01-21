@@ -2,7 +2,7 @@
 
 /**
  * @author Christian Leo-Pernold mazedlx@gmail.com
- * @link 	https://github.com/mazedlx/asset_helper
+ * @link https://github.com/mazedlx/asset_helper
  */
 
 /**

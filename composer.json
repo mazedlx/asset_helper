@@ -1,0 +1,16 @@
+{
+    "name": "mazedlx/asset_helper",
+    "description": "Asset helper for CodeIgniter 2 and 3",
+    "keywords": ["codeigniter", "assets", "helper"],
+    "authors": [
+        {
+            "name": "Christian Leo-Pernold",
+            "email": "mazedlx@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "codeigniter": >= "2.0.0"
+    },
+    "minimum-stability": "dev"
+}
