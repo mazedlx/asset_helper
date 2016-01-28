@@ -5,3 +5,5 @@ php:
 - 5.6
 before_script:
 - composer self-update
+script:
+- phpunit test/tests.php
