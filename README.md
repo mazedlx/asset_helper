@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mazedlx/asset_helper.svg?branch=master)](https://travis-ci.org/mazedlx/asset_helper)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mazedlx/asset_helper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mazedlx/asset_helper/?branch=master)
+
 # asset_helper
 Super-simple asset helper for CodeIgniter for local js and css files.
 
