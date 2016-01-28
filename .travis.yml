@@ -6,4 +6,4 @@ php:
 before_script:
 - composer self-update
 script:
-- phpunit ./Tests/AssetHelperTests.php
+- phpunit --configuration tests/phpunit.xml
