@@ -15,7 +15,7 @@ In your view:
 ```php
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-$assetHelper = new AssetHelper\AssetHelper;
+$assetHelper = new AssetHelper\AssetHelper();
 ?>
 <!DOCTYPE html>
 <html lang="de">

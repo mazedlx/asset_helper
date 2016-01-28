@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<phpunit bootstrap="./bootstrap.php">
+<phpunit backupGlobals="true" bootstrap="./bootstrap.php">
     <filter>
         <whitelist>
             <directory>/src</directory>
